@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/shop">
+      <sourceFolder url="file://$MODULE_DIR$/shop/target" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/shop/target/generated-sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/shop/src/main/resources" type="java-resource" />
+    </content>
+  </component>
+</module>
